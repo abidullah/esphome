@@ -34,9 +34,9 @@ substitutions:
 packages:
   ##### download esphome code from Github
   remote_package:
-    url: https://github.com/abidullah/Sonoff
+    url: https://github.com/abidullah/esphome
     ref: main
-    files: [nspanel_esphome.yaml]
+    files: [mynspanel.yaml.yaml]
     refresh: 300s
 
 ##### DO NOT CHANGE ANYTHING! #####
