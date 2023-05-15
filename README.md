@@ -36,7 +36,7 @@ packages:
   remote_package:
     url: https://github.com/abidullah/esphome
     ref: main
-    files: [mynspanel.yaml.yaml]
+    files: [mynspanel.yaml]
     refresh: 300s
 
 ##### DO NOT CHANGE ANYTHING! #####
